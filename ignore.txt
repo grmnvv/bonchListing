@@ -1,4 +1,4 @@
-filenames: [
+filenames:
 node_modules
 .env
 .gitignore
@@ -10,8 +10,6 @@ metrics.txt
 assets
 .DS_Store
 __pycache__
-]
-extensions: [
+extensions: 
 .css
 .jpg
-]
