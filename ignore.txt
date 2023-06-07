@@ -1,0 +1,17 @@
+filenames: [
+node_modules
+.env
+.gitignore
+package.json
+package-lock.json
+README.md
+metrics.txt
+.git
+assets
+.DS_Store
+__pycache__
+]
+extensions: [
+.css
+.jpg
+]
